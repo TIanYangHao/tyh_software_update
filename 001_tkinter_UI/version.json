@@ -1,0 +1,6 @@
+{
+    "latest_version": "1.0.2",
+    "download_url": "https://192.168.10.185:5006/%E8%BF%85%E9%9B%B7%E4%B8%8B%E8%BD%BD/%E8%BD%AF%E4%BB%B6%E6%9B%B4%E6%96%B0/01_tkinter_UI/01_tkinter_UI_v1.0.2.exe",
+    "update_log": "新增日志导出；优化内存占用；修复窗口最小化卡顿",
+    "force_update": false
+}
